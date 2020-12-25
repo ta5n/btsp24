@@ -1,8 +1,8 @@
 [![METU CEC](https://sem.metu.edu.tr/img/logo-sem.png)](https://sem.metu.edu.tr/)
 
-# Bilgisayar Sistemleri ve Python Programlama(BSY)
+# Java ile Bilgisayar Programcılığına Giriş(JPG)
 
-**Dr. Özgür Kaya**
+**Prof. Dr. Erman Yükseltürk**
 
 ## Ödevler
 

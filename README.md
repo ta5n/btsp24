@@ -8,7 +8,7 @@ Bilgi Teknolojileri Sertifika Programı(BTSP) Mayıs 1998 yılda başlamış, ar
 
 ## 1. Modül
 
-  - ### Bilgisayar Sistemleri ve Python Programlama(BSY)
+  - ### [Bilgisayar Sistemleri ve Python Programlama(BSY)](./bsy/)
 
     > Dr. Özgür Kaya
 
@@ -28,9 +28,7 @@ Bilgi Teknolojileri Sertifika Programı(BTSP) Mayıs 1998 yılda başlamış, ar
 
     8. Hafta Python'da Özyineleme ve Dosya İşlemleri
 
-       [Ödevler](./bsy/)
-
-  - ### Java ile Bilgisayar Programcılığına Giriş(JPG)
+  - ### [Java ile Bilgisayar Programcılığına Giriş(JPG)](./jpg/)
 
     > Prof. Dr. Erman Yükseltürk
 
