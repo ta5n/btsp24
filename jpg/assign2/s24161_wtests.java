@@ -1,7 +1,28 @@
 import java.util.Scanner;
 
-public class Assign2 {
+public class s24161 {
     public static void main(String[] args) throws Exception {
+        /*
+        int p1 = 5;
+        int x1 = 20;
+        System.out.println(buyuluSayilar(p1, x1));
+        
+        p1 = 7;
+        x1 = 4;
+        System.out.println(buyuluSayilar(p1, x1));
+        
+        p1 = 7;
+        x1 = 24;
+        System.out.println(buyuluSayilar(p1, x1));
+        
+        p1 = 3;
+        x1 = 40;
+        System.out.println(buyuluSayilar(p1, x1));
+        
+        p1 = 10;
+        x1 = 50;
+        System.out.println(buyuluSayilar(p1, x1));
+        */
         sor();
     }
 
@@ -14,7 +35,6 @@ public class Assign2 {
         int x = in.nextInt();
 
         System.out.println(buyuluSayilar(p, x));
-        in.close();
     }
 
     public static String buyuluSayilar(int p, int x) {

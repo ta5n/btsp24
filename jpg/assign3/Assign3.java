@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assign2 {
+public class Assign3 {
     public static void main(String[] args) throws Exception {
         sor();
     }

@@ -1,0 +1,3 @@
+Numara	Puan
+24161	97
+est	0

@@ -10,7 +10,7 @@ Bilgi Teknolojileri Sertifika Programı(BTSP) Mayıs 1998 yılda başlamış, ar
 
   - ### [Bilgisayar Sistemleri ve Python Programlama(BSY)](./bsy/)
 
-    > Dr. Özgür Kaya
+    > *Dr. Özgür Kaya*
 
     1. Hafta: Bilgisayar Mimarisi
 
@@ -30,7 +30,7 @@ Bilgi Teknolojileri Sertifika Programı(BTSP) Mayıs 1998 yılda başlamış, ar
 
   - ### [Java ile Bilgisayar Programcılığına Giriş(JPG)](./jpg/)
 
-    > Prof. Dr. Erman Yükseltürk
+    > *Prof. Dr. Erman Yükseltürk*
 
     1. Hafta Programlamaya ve Java Diline Giriş
     2. Hafta Veri Türleri ve Atama ifadesi
@@ -45,7 +45,7 @@ Bilgi Teknolojileri Sertifika Programı(BTSP) Mayıs 1998 yılda başlamış, ar
 
 - ### Java ile Veri Yapıları ve Algoritmalar
 
-  > Dr. Cevat Şener
+  > *Dr. Cevat Şener*
 
   1. Hafta - Java ile Nesneye Dayalı Programlama -1
   2. Hafta - Java ile Nesneye Dayalı Programlama -1
@@ -58,7 +58,7 @@ Bilgi Teknolojileri Sertifika Programı(BTSP) Mayıs 1998 yılda başlamış, ar
 
 - ### Unix ile İşletim Sistemleri
 
-  > Prof. Dr. Faruk Polat
+  > *Prof. Dr. Faruk Polat*
 
   1. Hafta - İşletim Sistemleri Kavramları
   2. Hafta - İşlemler
@@ -73,7 +73,7 @@ Bilgi Teknolojileri Sertifika Programı(BTSP) Mayıs 1998 yılda başlamış, ar
 
 - ### Veri Tabanı Yönetim Sistemleri
 
-  > Prof. Dr. Adnan Yazıcı
+  > *Prof. Dr. Adnan Yazıcı*
 
   1. Hafta Veri Tabanı Sistemine Giriş
   2. Hafta Veri Tabanları için Kavramsal Modelleme
@@ -86,7 +86,7 @@ Bilgi Teknolojileri Sertifika Programı(BTSP) Mayıs 1998 yılda başlamış, ar
 
 - ### Yazılım Mühendisliği
 
-  > Prof. Dr. Ali H. Doğru
+  > *Prof. Dr. Ali H. Doğru*
 
   1. Hafta Yazılım Mühendisliğine Giriş
   2. Hafta Tahmin ve Planlama
@@ -101,7 +101,7 @@ Bilgi Teknolojileri Sertifika Programı(BTSP) Mayıs 1998 yılda başlamış, ar
 
 - ### Web Programlama
 
-  > Prof. Dr. Ahmet Coşar
+  > *Prof. Dr. Ahmet Coşar*
 
   1. Hafta WWW - World Wide Web
   2. Hafta Web Mimarisine Giriş ve HTML
@@ -114,7 +114,7 @@ Bilgi Teknolojileri Sertifika Programı(BTSP) Mayıs 1998 yılda başlamış, ar
 
 - ### Yazılım Geliştirme Projesi
 
-  > Prof. Dr. Veysi İşler
+  > *Prof. Dr. Veysi İşler*
 
   1. Yazılım Projesi Belgelendirme standartları
   2. Proje Sunum Standartlarının Tanımlanması

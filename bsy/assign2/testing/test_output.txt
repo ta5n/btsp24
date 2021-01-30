@@ -1,0 +1,474 @@
+Calisan Dosya:  env
+Calisan Dosya:  s24161.py
+--------------------------------------------------------
+Test No: 1
+Yazdirilan satir:  645
+Olasi sonuclar:  ['247+153=400', '153+247=400']
+Olasi sonuclar:  ['353+73=426', '73+353=426']
+Olasi sonuclar:  ['645']
+Test No: 1, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  3
+Olasi sonuclar:  ['247+153=400', '153+247=400']
+Olasi sonuclar:  ['353+73=426', '73+353=426']
+Olasi sonuclar:  ['645']
+Olasi sonuclar:  ['13']
+Olasi sonuclar:  ['3']
+Test No: 1, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  13
+Olasi sonuclar:  ['247+153=400', '153+247=400']
+Olasi sonuclar:  ['353+73=426', '73+353=426']
+Olasi sonuclar:  ['645']
+Olasi sonuclar:  ['13']
+Test No: 1, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  247 + 153 = 400
+Olasi sonuclar:  ['247+153=400', '153+247=400']
+Test No: 1, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  353 + 73 = 426
+Olasi sonuclar:  ['247+153=400', '153+247=400']
+Olasi sonuclar:  ['353+73=426', '73+353=426']
+Test No: 1, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  
+Olasi sonuclar:  ['247+153=400', '153+247=400']
+Olasi sonuclar:  ['353+73=426', '73+353=426']
+Olasi sonuclar:  ['645']
+Olasi sonuclar:  ['13']
+Olasi sonuclar:  ['3']
+Test No: 1, soru2 icin yanlis sonuc.
+
+Test No: 1, soru1 icin liste1 dogru.
+
+Test No: 1, soru1 icin liste2 dogru.
+
+Test puani: 2.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 2
+Yazdirilan satir:  50
+Olasi sonuclar:  ['11']
+Olasi sonuclar:  ['50']
+Test No: 2, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  49
+Olasi sonuclar:  ['11']
+Olasi sonuclar:  ['50']
+Olasi sonuclar:  ['26']
+Olasi sonuclar:  ['101']
+Olasi sonuclar:  ['49']
+Test No: 2, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  101
+Olasi sonuclar:  ['11']
+Olasi sonuclar:  ['50']
+Olasi sonuclar:  ['26']
+Olasi sonuclar:  ['101']
+Test No: 2, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  95
+Olasi sonuclar:  ['11']
+Olasi sonuclar:  ['50']
+Olasi sonuclar:  ['26']
+Olasi sonuclar:  ['101']
+Olasi sonuclar:  ['49']
+Olasi sonuclar:  ['95']
+Test No: 2, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  11
+Olasi sonuclar:  ['11']
+Test No: 2, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  26
+Olasi sonuclar:  ['11']
+Olasi sonuclar:  ['50']
+Olasi sonuclar:  ['26']
+Test No: 2, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  
+Olasi sonuclar:  ['11']
+Olasi sonuclar:  ['50']
+Olasi sonuclar:  ['26']
+Olasi sonuclar:  ['101']
+Olasi sonuclar:  ['49']
+Olasi sonuclar:  ['95']
+Test No: 2, soru2 icin yanlis sonuc.
+
+Test No: 2, soru1 icin liste1 dogru.
+
+Test No: 2, soru1 icin liste2 dogru.
+
+Test puani: 2.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 3
+Yazdirilan satir:  11 + 171 = 182
+Olasi sonuclar:  ['11+171=182', '171+11=182']
+Test No: 3, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  11
+Olasi sonuclar:  ['11+171=182', '171+11=182']
+Olasi sonuclar:  ['693']
+Olasi sonuclar:  ['12673']
+Olasi sonuclar:  ['11']
+Test No: 3, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  693
+Olasi sonuclar:  ['11+171=182', '171+11=182']
+Olasi sonuclar:  ['693']
+Test No: 3, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  12673
+Olasi sonuclar:  ['11+171=182', '171+11=182']
+Olasi sonuclar:  ['693']
+Olasi sonuclar:  ['12673']
+Test No: 3, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  
+Olasi sonuclar:  ['11+171=182', '171+11=182']
+Olasi sonuclar:  ['693']
+Olasi sonuclar:  ['12673']
+Olasi sonuclar:  ['11']
+Test No: 3, soru2 icin yanlis sonuc.
+
+Test No: 3, soru1 icin liste1 dogru.
+
+Test No: 3, soru1 icin liste2 dogru.
+
+Test puani: 2.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 4
+Yazdirilan satir:  5
+Olasi sonuclar:  ['26+26=52', '26+26=52']
+Olasi sonuclar:  ['41+95+95=231', '41+95+95=231', '95+41+95=231', '95+95+41=231', '95+41+95=231', '95+95+41=231']
+Olasi sonuclar:  ['49+50=99', '50+49=99']
+Olasi sonuclar:  ['2+8=10', '8+2=10']
+Olasi sonuclar:  ['101']
+Olasi sonuclar:  ['5']
+Test No: 4, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  49 + 50 = 99
+Olasi sonuclar:  ['26+26=52', '26+26=52']
+Olasi sonuclar:  ['41+95+95=231', '41+95+95=231', '95+41+95=231', '95+95+41=231', '95+41+95=231', '95+95+41=231']
+Olasi sonuclar:  ['49+50=99', '50+49=99']
+Test No: 4, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  101
+Olasi sonuclar:  ['26+26=52', '26+26=52']
+Olasi sonuclar:  ['41+95+95=231', '41+95+95=231', '95+41+95=231', '95+95+41=231', '95+41+95=231', '95+95+41=231']
+Olasi sonuclar:  ['49+50=99', '50+49=99']
+Olasi sonuclar:  ['2+8=10', '8+2=10']
+Olasi sonuclar:  ['101']
+Test No: 4, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  41 + 95 = 95 = 231
+Olasi sonuclar:  ['26+26=52', '26+26=52']
+Olasi sonuclar:  ['41+95+95=231', '41+95+95=231', '95+41+95=231', '95+95+41=231', '95+41+95=231', '95+95+41=231']
+Olasi sonuclar:  ['49+50=99', '50+49=99']
+Olasi sonuclar:  ['2+8=10', '8+2=10']
+Olasi sonuclar:  ['101']
+Olasi sonuclar:  ['5']
+Test No: 4, soru2 icin yanlis sonuc.
+
+Yazdirilan satir:  2 + 8 = 10
+Olasi sonuclar:  ['26+26=52', '26+26=52']
+Olasi sonuclar:  ['41+95+95=231', '41+95+95=231', '95+41+95=231', '95+95+41=231', '95+41+95=231', '95+95+41=231']
+Olasi sonuclar:  ['49+50=99', '50+49=99']
+Olasi sonuclar:  ['2+8=10', '8+2=10']
+Test No: 4, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  26 = 26 = 52
+Olasi sonuclar:  ['26+26=52', '26+26=52']
+Olasi sonuclar:  ['41+95+95=231', '41+95+95=231', '95+41+95=231', '95+95+41=231', '95+41+95=231', '95+95+41=231']
+Olasi sonuclar:  ['49+50=99', '50+49=99']
+Olasi sonuclar:  ['2+8=10', '8+2=10']
+Olasi sonuclar:  ['101']
+Olasi sonuclar:  ['5']
+Test No: 4, soru2 icin yanlis sonuc.
+
+Yazdirilan satir:  
+Olasi sonuclar:  ['26+26=52', '26+26=52']
+Olasi sonuclar:  ['41+95+95=231', '41+95+95=231', '95+41+95=231', '95+95+41=231', '95+41+95=231', '95+95+41=231']
+Olasi sonuclar:  ['49+50=99', '50+49=99']
+Olasi sonuclar:  ['2+8=10', '8+2=10']
+Olasi sonuclar:  ['101']
+Olasi sonuclar:  ['5']
+Test No: 4, soru2 icin yanlis sonuc.
+
+Test No: 4, soru1 icin liste1 dogru.
+
+Test No: 4, soru1 icin liste2 dogru.
+
+Test puani: 1.666667
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 5
+Yazdirilan satir:  5 = 5 = 10
+Olasi sonuclar:  ['8+2+8=18', '8+8+2=18', '2+8+8=18', '2+8+8=18', '8+8+2=18', '8+2+8=18']
+Olasi sonuclar:  ['41+95=136', '95+41=136']
+Olasi sonuclar:  ['49+49+50=148', '49+50+49=148', '49+49+50=148', '49+50+49=148', '50+49+49=148', '50+49+49=148']
+Olasi sonuclar:  ['101']
+Olasi sonuclar:  ['5+5=10', '5+5=10']
+Olasi sonuclar:  ['26']
+Test No: 5, soru2 icin yanlis sonuc.
+
+Yazdirilan satir:  49 + 49 + 50 = 148
+Olasi sonuclar:  ['8+2+8=18', '8+8+2=18', '2+8+8=18', '2+8+8=18', '8+8+2=18', '8+2+8=18']
+Olasi sonuclar:  ['41+95=136', '95+41=136']
+Olasi sonuclar:  ['49+49+50=148', '49+50+49=148', '49+49+50=148', '49+50+49=148', '50+49+49=148', '50+49+49=148']
+Test No: 5, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  101
+Olasi sonuclar:  ['8+2+8=18', '8+8+2=18', '2+8+8=18', '2+8+8=18', '8+8+2=18', '8+2+8=18']
+Olasi sonuclar:  ['41+95=136', '95+41=136']
+Olasi sonuclar:  ['49+49+50=148', '49+50+49=148', '49+49+50=148', '49+50+49=148', '50+49+49=148', '50+49+49=148']
+Olasi sonuclar:  ['101']
+Test No: 5, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  41 + 95 = 136
+Olasi sonuclar:  ['8+2+8=18', '8+8+2=18', '2+8+8=18', '2+8+8=18', '8+8+2=18', '8+2+8=18']
+Olasi sonuclar:  ['41+95=136', '95+41=136']
+Test No: 5, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  8 = 2 + 8 = 18
+Olasi sonuclar:  ['8+2+8=18', '8+8+2=18', '2+8+8=18', '2+8+8=18', '8+8+2=18', '8+2+8=18']
+Olasi sonuclar:  ['41+95=136', '95+41=136']
+Olasi sonuclar:  ['49+49+50=148', '49+50+49=148', '49+49+50=148', '49+50+49=148', '50+49+49=148', '50+49+49=148']
+Olasi sonuclar:  ['101']
+Olasi sonuclar:  ['5+5=10', '5+5=10']
+Olasi sonuclar:  ['26']
+Test No: 5, soru2 icin yanlis sonuc.
+
+Yazdirilan satir:  26
+Olasi sonuclar:  ['8+2+8=18', '8+8+2=18', '2+8+8=18', '2+8+8=18', '8+8+2=18', '8+2+8=18']
+Olasi sonuclar:  ['41+95=136', '95+41=136']
+Olasi sonuclar:  ['49+49+50=148', '49+50+49=148', '49+49+50=148', '49+50+49=148', '50+49+49=148', '50+49+49=148']
+Olasi sonuclar:  ['101']
+Olasi sonuclar:  ['5+5=10', '5+5=10']
+Olasi sonuclar:  ['26']
+Test No: 5, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  
+Olasi sonuclar:  ['8+2+8=18', '8+8+2=18', '2+8+8=18', '2+8+8=18', '8+8+2=18', '8+2+8=18']
+Olasi sonuclar:  ['41+95=136', '95+41=136']
+Olasi sonuclar:  ['49+49+50=148', '49+50+49=148', '49+49+50=148', '49+50+49=148', '50+49+49=148', '50+49+49=148']
+Olasi sonuclar:  ['101']
+Olasi sonuclar:  ['5+5=10', '5+5=10']
+Olasi sonuclar:  ['26']
+Test No: 5, soru2 icin yanlis sonuc.
+
+Test No: 5, soru1 icin liste1 dogru.
+
+Test No: 5, soru1 icin liste2 dogru.
+
+Test puani: 1.666667
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 6
+Yazdirilan satir:  8
+Olasi sonuclar:  ['8']
+Test No: 6, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  
+Olasi sonuclar:  ['8']
+Test No: 6, soru2 icin yanlis sonuc.
+
+Test No: 6, soru1 icin liste1 dogru.
+
+Test No: 6, soru1 icin liste2 dogru.
+
+Test puani: 2.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 7
+Yazdirilan satir:  50
+Olasi sonuclar:  ['50']
+Test No: 7, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  
+Olasi sonuclar:  ['50']
+Test No: 7, soru2 icin yanlis sonuc.
+
+Test No: 7, soru1 icin liste1 dogru.
+
+Test No: 7, soru1 icin liste2 dogru.
+
+Test puani: 2.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 8
+Yazdirilan satir:  69
+Olasi sonuclar:  ['7']
+Olasi sonuclar:  ['8']
+Olasi sonuclar:  ['69']
+Test No: 8, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  49
+Olasi sonuclar:  ['7']
+Olasi sonuclar:  ['8']
+Olasi sonuclar:  ['69']
+Olasi sonuclar:  ['9']
+Olasi sonuclar:  ['41']
+Olasi sonuclar:  ['49']
+Test No: 8, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  41
+Olasi sonuclar:  ['7']
+Olasi sonuclar:  ['8']
+Olasi sonuclar:  ['69']
+Olasi sonuclar:  ['9']
+Olasi sonuclar:  ['41']
+Test No: 8, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  8
+Olasi sonuclar:  ['7']
+Olasi sonuclar:  ['8']
+Test No: 8, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  7
+Olasi sonuclar:  ['7']
+Test No: 8, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  9
+Olasi sonuclar:  ['7']
+Olasi sonuclar:  ['8']
+Olasi sonuclar:  ['69']
+Olasi sonuclar:  ['9']
+Test No: 8, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  
+Olasi sonuclar:  ['7']
+Olasi sonuclar:  ['8']
+Olasi sonuclar:  ['69']
+Olasi sonuclar:  ['9']
+Olasi sonuclar:  ['41']
+Olasi sonuclar:  ['49']
+Test No: 8, soru2 icin yanlis sonuc.
+
+Test No: 8, soru1 icin liste1 dogru.
+
+Test No: 8, soru1 icin liste2 dogru.
+
+Test puani: 2.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 9
+Yazdirilan satir:  1 + 2 + 41 + 4 + 9 = 57
+Olasi sonuclar:  ['1+2+41+4+9=57', '1+2+41+9+4=57', '1+2+4+41+9=57', '1+2+4+9+41=57', '1+2+9+41+4=57', '1+2+9+4+41=57', '1+41+2+4+9=57', '1+41+2+9+4=57', '1+41+4+2+9=57', '1+41+4+9+2=57', '1+41+9+2+4=57', '1+41+9+4+2=57', '1+4+2+41+9=57', '1+4+2+9+41=57', '1+4+41+2+9=57', '1+4+41+9+2=57', '1+4+9+2+41=57', '1+4+9+41+2=57', '1+9+2+41+4=57', '1+9+2+4+41=57', '1+9+41+2+4=57', '1+9+41+4+2=57', '1+9+4+2+41=57', '1+9+4+41+2=57', '2+1+41+4+9=57', '2+1+41+9+4=57', '2+1+4+41+9=57', '2+1+4+9+41=57', '2+1+9+41+4=57', '2+1+9+4+41=57', '2+41+1+4+9=57', '2+41+1+9+4=57', '2+41+4+1+9=57', '2+41+4+9+1=57', '2+41+9+1+4=57', '2+41+9+4+1=57', '2+4+1+41+9=57', '2+4+1+9+41=57', '2+4+41+1+9=57', '2+4+41+9+1=57', '2+4+9+1+41=57', '2+4+9+41+1=57', '2+9+1+41+4=57', '2+9+1+4+41=57', '2+9+41+1+4=57', '2+9+41+4+1=57', '2+9+4+1+41=57', '2+9+4+41+1=57', '41+1+2+4+9=57', '41+1+2+9+4=57', '41+1+4+2+9=57', '41+1+4+9+2=57', '41+1+9+2+4=57', '41+1+9+4+2=57', '41+2+1+4+9=57', '41+2+1+9+4=57', '41+2+4+1+9=57', '41+2+4+9+1=57', '41+2+9+1+4=57', '41+2+9+4+1=57', '41+4+1+2+9=57', '41+4+1+9+2=57', '41+4+2+1+9=57', '41+4+2+9+1=57', '41+4+9+1+2=57', '41+4+9+2+1=57', '41+9+1+2+4=57', '41+9+1+4+2=57', '41+9+2+1+4=57', '41+9+2+4+1=57', '41+9+4+1+2=57', '41+9+4+2+1=57', '4+1+2+41+9=57', '4+1+2+9+41=57', '4+1+41+2+9=57', '4+1+41+9+2=57', '4+1+9+2+41=57', '4+1+9+41+2=57', '4+2+1+41+9=57', '4+2+1+9+41=57', '4+2+41+1+9=57', '4+2+41+9+1=57', '4+2+9+1+41=57', '4+2+9+41+1=57', '4+41+1+2+9=57', '4+41+1+9+2=57', '4+41+2+1+9=57', '4+41+2+9+1=57', '4+41+9+1+2=57', '4+41+9+2+1=57', '4+9+1+2+41=57', '4+9+1+41+2=57', '4+9+2+1+41=57', '4+9+2+41+1=57', '4+9+41+1+2=57', '4+9+41+2+1=57', '9+1+2+41+4=57', '9+1+2+4+41=57', '9+1+41+2+4=57', '9+1+41+4+2=57', '9+1+4+2+41=57', '9+1+4+41+2=57', '9+2+1+41+4=57', '9+2+1+4+41=57', '9+2+41+1+4=57', '9+2+41+4+1=57', '9+2+4+1+41=57', '9+2+4+41+1=57', '9+41+1+2+4=57', '9+41+1+4+2=57', '9+41+2+1+4=57', '9+41+2+4+1=57', '9+41+4+1+2=57', '9+41+4+2+1=57', '9+4+1+2+41=57', '9+4+1+41+2=57', '9+4+2+1+41=57', '9+4+2+41+1=57', '9+4+41+1+2=57', '9+4+41+2+1=57']
+Test No: 9, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  
+Olasi sonuclar:  ['1+2+41+4+9=57', '1+2+41+9+4=57', '1+2+4+41+9=57', '1+2+4+9+41=57', '1+2+9+41+4=57', '1+2+9+4+41=57', '1+41+2+4+9=57', '1+41+2+9+4=57', '1+41+4+2+9=57', '1+41+4+9+2=57', '1+41+9+2+4=57', '1+41+9+4+2=57', '1+4+2+41+9=57', '1+4+2+9+41=57', '1+4+41+2+9=57', '1+4+41+9+2=57', '1+4+9+2+41=57', '1+4+9+41+2=57', '1+9+2+41+4=57', '1+9+2+4+41=57', '1+9+41+2+4=57', '1+9+41+4+2=57', '1+9+4+2+41=57', '1+9+4+41+2=57', '2+1+41+4+9=57', '2+1+41+9+4=57', '2+1+4+41+9=57', '2+1+4+9+41=57', '2+1+9+41+4=57', '2+1+9+4+41=57', '2+41+1+4+9=57', '2+41+1+9+4=57', '2+41+4+1+9=57', '2+41+4+9+1=57', '2+41+9+1+4=57', '2+41+9+4+1=57', '2+4+1+41+9=57', '2+4+1+9+41=57', '2+4+41+1+9=57', '2+4+41+9+1=57', '2+4+9+1+41=57', '2+4+9+41+1=57', '2+9+1+41+4=57', '2+9+1+4+41=57', '2+9+41+1+4=57', '2+9+41+4+1=57', '2+9+4+1+41=57', '2+9+4+41+1=57', '41+1+2+4+9=57', '41+1+2+9+4=57', '41+1+4+2+9=57', '41+1+4+9+2=57', '41+1+9+2+4=57', '41+1+9+4+2=57', '41+2+1+4+9=57', '41+2+1+9+4=57', '41+2+4+1+9=57', '41+2+4+9+1=57', '41+2+9+1+4=57', '41+2+9+4+1=57', '41+4+1+2+9=57', '41+4+1+9+2=57', '41+4+2+1+9=57', '41+4+2+9+1=57', '41+4+9+1+2=57', '41+4+9+2+1=57', '41+9+1+2+4=57', '41+9+1+4+2=57', '41+9+2+1+4=57', '41+9+2+4+1=57', '41+9+4+1+2=57', '41+9+4+2+1=57', '4+1+2+41+9=57', '4+1+2+9+41=57', '4+1+41+2+9=57', '4+1+41+9+2=57', '4+1+9+2+41=57', '4+1+9+41+2=57', '4+2+1+41+9=57', '4+2+1+9+41=57', '4+2+41+1+9=57', '4+2+41+9+1=57', '4+2+9+1+41=57', '4+2+9+41+1=57', '4+41+1+2+9=57', '4+41+1+9+2=57', '4+41+2+1+9=57', '4+41+2+9+1=57', '4+41+9+1+2=57', '4+41+9+2+1=57', '4+9+1+2+41=57', '4+9+1+41+2=57', '4+9+2+1+41=57', '4+9+2+41+1=57', '4+9+41+1+2=57', '4+9+41+2+1=57', '9+1+2+41+4=57', '9+1+2+4+41=57', '9+1+41+2+4=57', '9+1+41+4+2=57', '9+1+4+2+41=57', '9+1+4+41+2=57', '9+2+1+41+4=57', '9+2+1+4+41=57', '9+2+41+1+4=57', '9+2+41+4+1=57', '9+2+4+1+41=57', '9+2+4+41+1=57', '9+41+1+2+4=57', '9+41+1+4+2=57', '9+41+2+1+4=57', '9+41+2+4+1=57', '9+41+4+1+2=57', '9+41+4+2+1=57', '9+4+1+2+41=57', '9+4+1+41+2=57', '9+4+2+1+41=57', '9+4+2+41+1=57', '9+4+41+1+2=57', '9+4+41+2+1=57']
+Test No: 9, soru2 icin yanlis sonuc.
+
+Test No: 9, soru1 icin liste1 dogru.
+
+Test No: 9, soru1 icin liste2 dogru.
+
+Test puani: 2.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 10
+Yazdirilan satir:  27
+Olasi sonuclar:  ['3+11=14', '11+3=14']
+Olasi sonuclar:  ['27']
+Test No: 10, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  7 + 11 = 18
+Olasi sonuclar:  ['3+11=14', '11+3=14']
+Olasi sonuclar:  ['27']
+Olasi sonuclar:  ['7+11=18', '11+7=18']
+Test No: 10, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  3 + 11 = 14
+Olasi sonuclar:  ['3+11=14', '11+3=14']
+Test No: 10, soru2 icin dogru sonuc.
+
+Yazdirilan satir:  
+Olasi sonuclar:  ['3+11=14', '11+3=14']
+Olasi sonuclar:  ['27']
+Olasi sonuclar:  ['7+11=18', '11+7=18']
+Test No: 10, soru2 icin yanlis sonuc.
+
+Test No: 10, soru1 icin liste1 dogru.
+
+Test No: 10, soru1 icin liste2 dogru.
+
+Test puani: 2.000000
+--------------------------------------------------------
+Dogru : 19.333333/20
+Ogrenci No:  24161
+Not : 97
+
+
+Calisan Dosya:  Test.py
+--------------------------------------------------------
+Test No: 1
+Test No: 1, soru2 hata
+Test No 1, soru1 hata
+Test puani: 0.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 2
+Test No: 2, soru2 hata
+Test No 2, soru1 hata
+Test puani: 0.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 3
+Test No: 3, soru2 hata
+Test No 3, soru1 hata
+Test puani: 0.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 4
+Test No: 4, soru2 hata
+Test No 4, soru1 hata
+Test puani: 0.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 5
+Test No: 5, soru2 hata
+Test No 5, soru1 hata
+Test puani: 0.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 6
+Test No: 6, soru2 hata
+Test No 6, soru1 hata
+Test puani: 0.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 7
+Test No: 7, soru2 hata
+Test No 7, soru1 hata
+Test puani: 0.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 8
+Test No: 8, soru2 hata
+Test No 8, soru1 hata
+Test puani: 0.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 9
+Test No: 9, soru2 hata
+Test No 9, soru1 hata
+Test puani: 0.000000
+--------------------------------------------------------
+--------------------------------------------------------
+Test No: 10
+Test No: 10, soru2 hata
+Test No 10, soru1 hata
+Test puani: 0.000000
+--------------------------------------------------------
+Dogru : 0.000000/20
+Ogrenci No:  est
+Not : 0
+
+
+Calisan Dosya:  test_output.txt
+Calisan Dosya:  __pycache__

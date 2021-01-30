@@ -1,0 +1,137 @@
+Verilen sayı 11'e bölünüyor ise True, bölünmüyor ise False yazdırınız. Bunun için % yerine 11'e bölünebilme kuralını kodlamanızı istiyoruz.
+
+11'e bölünebilme kuralı: Sayının birler basamağından başlayarak her bir rakam sağdan sola sırasıyla ”+ – + – + – …” işaretleriyle işaretlenir. Daha sonra + işaretliler kendi arasında toplanır ve (-) işaretliler kendi arasında toplanır ve aralarındaki farka bakılır. Eğer fark 0 veya 11’in katı ise o sayı 11 ile tam olarak bölünür.
+
+Örnek olarak 837419 sayısını kontrol edelim, sağdan başlayarak 9, 4 ve 3 rakamlarının altına +, kalan rakamlar olan 1, 7 ve 8'in altına - yazıp, artı olanları kendi aralarında toplarsak 16, eksi olanları kendi aralarında toplarsak da 16 sayısını elde ederiz. 16 - 16 = 0, 11'in bir katı (bu durumda 0 katı) olduğu için sayımız 11'e bölünmektedir.
+
+
+def is11Divisible(sayi):
+    snum = str(sayi)[::-1]
+    odd = 0
+    even = 0
+    for i in range(len(snum)):
+        if i % 2 == 0:
+            odd = odd + int(snum[i])
+        else:
+            even = even + int(snum[i])
+    if (odd - even) % 11 == 0:
+        print("True")
+        return
+    print("False")
+	
+Verilen sayıdan büyük, en küçük asal sayıyı ekrana yazdırınız. Bunun için size verdiğimiz isPrime fonksiyonunu kullanabilirsiniz, isPrime fonksiyonu verilen sayı asal ise True, asal değil ise False dönüyor.
+
+Örnek enkucukasal(2) 3 sayısını, enkucukasal(6) ise 7 sayısını ekrana yazdırmalıdır.
+
+## isPrime fonksiyonunu degistirmeyiniz
+def isPrime(sayi):
+    # bu fonksiyon icerisinde kesinlikle degisiklik yapmayiniz
+    for i in range(2, (sayi+1)//2 + 1):
+        if sayi % i == 0:
+            return False
+    return True
+    
+def enkucukasal(sayi):
+    # Programinizi bu satirin altina yaziniz. "sayi" degiskeni, "int" turundedir ve isleminizde bu degiskeni kullaniniz.
+    # Hatali girdi verilmedigini varsayabilirsiniz
+    num = sayi + 1
+    while not isPrime(num):
+        num += 1
+    print(num)
+
+enkucukasal(8)
+
+
+Verilen bir sayınıng dijital kökünü (digital root) ekrana yazdırınız.
+
+Verilen bir sayının dijital kökü (aynı zamanda tekrarlanan dijital toplam), sonuç tek basamaklı sayı olana kadar her adımda elde edilen sayının basamaklarını toplayarak bulunur. Örnekle açıklamak gerekirse, 578 sayının basamaklarını topladığımızda 20 sayısını elde ederiz, sonuç tek basamaklı olmadığı için 20 sayısının basamaklarını toplayarak 578 sayısının dijital kökü olan 2 sayısını buluruz.
+
+def dkok(num):
+    # Programinizi bu satirin altina yaziniz. "num" degiskeni, "int" turundedir ve isleminizde kolaylik saglaması icin 'str' turunde bir degiskene dondurup kullanabilirsiniz.
+    # Hatali girdi verilmedigini varsayabilirsiniz.
+    snum = str(num)
+    sum = 10
+    while sum > 9:
+        sum = 0
+        for digit in snum:
+            sum = sum + int(digit)
+        snum = str(sum)
+    print(sum)
+	
+	
+Frekans analizi, verilen karakter dizisi içerisindeki her bir karakterin kaç kere bulunduğunu sayma işlemidir. Girdi olarak verilen karakter dizisi için benzersiz karakterleri sözlüğün anahtarı, karakterlerin girdi içerisindeki sayılarını da anahtarlara karşılık gelecek değer olarak tutan sözlüğü ekrana yazdırınız.
+
+Örneğin 'ankara' girdisi için {'n': 1, 'r': 1, 'a': 3, 'k': 1} sözlüğünün ekrana yazdırılması gerektirmektedir, burada 'n', 'r', 'a' ve 'k' 'ankara' kelimesi içerisindeki benzersiz karakterleri, her bir karaktere karşılık gelen rakam da o karakterin karakter dizisi içerisindeki bulunma sayısını göstermektedir, 'ankara' içerisinde toplam 3 tane 'a' bulunduğunu da bu anahtara karşılık gelen değere bakarak anlıyoruz.
+
+# cevaplarinizi kontrol edebilmek icin bu kutuphaneyi ekledik, lutfen silmeyiniz
+from collections import OrderedDict
+
+def frekansAnalizi(karakterDizisi):
+    # Programinizi bu satirin altina yaziniz. "karakterDizisi" degiskeni, "str" turundedir ve isleminizde bu degiskeni kullaniniz.
+    # Hatali girdi verilmedigini varsayabilirsiniz
+    # Asagida verilen ordered dictionary olan 'karaterSayisi' isimli sozlugu size ogrettigimiz
+    # sozluk gibi kullanabilirsiniz, temelde cok fazla farki bulunmamaktadir,
+    # frekans sayilarini bu sozluk icerisinde tutmalisiniz.
+    # bu sozluge eleman eklemek icin ornek olarak karakterSayisi['a'] = 1
+    # elemani guncellemek icin de karakterSayisi['a'] = karakterSayisi['a'] + 1
+    # islemleri standart sozlukte yapilan islemlerin aynisidir.
+    karakterSayisi = OrderedDict() 
+    for item in karakterDizisi:
+        if karakterSayisi.get(item) is None:
+            karakterSayisi[item] = 1
+        else:
+            karakterSayisi[item] += 1
+    print(karakterSayisi)
+
+frekansAnalizi("asistan")
+
+
+Verilen bir dizi üzerinde en büyük eleman ile en küçük eleman arasındaki farkı ekrana yazdırınız.
+
+Örnek: [1, 123, -5, 0] dizisi için en büyük eleman 123, en küçük eleman -5 olduğu için sonuç 123-(-5) = 128 olarak ekrana yazdirilmalidir.
+
+def gap(liste):
+    # Programinizi bu satirin altina yaziniz. "liste" degiskeni, "list" turundedir ve isleminizde bu degiskeni kullaniniz.
+    # Hatali girdi verilmedigini varsayabilirsiniz
+    max = liste[0]
+    min = liste[0]
+    for num in liste:
+        if num > max:
+            max = num
+        if num < min:
+            min = num
+    print(max - min)
+    
+gap([1, 123, -5, 0])
+    
+	
+Verilen pozitif x tamsayısı için 1'den başlayarak x'e kadar olan (x dahil) sayıları anahtar, sayıların karelerini de anahtara karşılık gelen değer olarak içeren sözlüğü yazdırınız.
+
+def kareler(sayi):
+    # Programinizi bu satirin altina yaziniz. "sayi" degiskeni, "int" turundedir ve isleminizde bu degiskeni kullaniniz.
+    # Hatali girdi verilmedigini varsayabilirsiniz
+    result = dict()
+    for i in range(1,sayi+1):
+        result[i] = i * i
+    print(result)
+
+	
+Verilen bir dizi içerisindeki eleman karakter dizisi ise uzunluğunu, tam sayı ise bulunduğu indeks değeri ile çarpımını içeren listeyi ekrana yazdırınız.
+
+Örnek:
+
+process(['abcd', 10, 5, 'dc']) ekrana [4, 10, 10, 2] yazdırmalıdır, sonuçta yazdırılan listenin ilk elemanı 'abcd' karakter dizisinin uzunluğunu, ikinci elemanı 10 * 1 işleminin sonucunu (girdi olarak verilen dizide 10 elemanı 1. indekste yer almaktadır), üçüncü elemanı 5 * 2 işleminin sonucunu (girdi olarak verilen dizide 5 elemanı 2. indekste yer almaktadır) ve son elemanı da 'dc' karakter dizisinin uzunluğunu belirtmektedir.
+
+def process(liste):
+    # Programinizi bu satirin altina yaziniz. "liste" degiskeni, "list" turundedir ve isleminizde bu degiskeni kullaniniz.
+    # Hatali girdi verilmedigini varsayabilirsiniz
+    result = []
+    
+    for i in range(len(liste)):
+        if isinstance(liste[i], str):
+            result.append(len(liste[i]))
+        if isinstance(liste[i], int):
+            result.append(liste[i] * i)
+    print(result)
+
+process(['abcd', 10, 5, 'dc'])

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assign2 {
+public class s24161 {
     public static void main(String[] args) throws Exception {
         sor();
     }
@@ -14,7 +14,6 @@ public class Assign2 {
         int x = in.nextInt();
 
         System.out.println(buyuluSayilar(p, x));
-        in.close();
     }
 
     public static String buyuluSayilar(int p, int x) {
